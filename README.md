@@ -23,10 +23,10 @@
 [<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" title="React" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" title="GraphQL" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][website]
-[<img align="left" title="Node. alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" title="MongoDB" alt="MongoDB" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/mongo_leaf.svg" />][website]
 [<img align="left" title="CSharp" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][website]
-[<img align="left" title="WebGL" alt="WebGL" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/webgl.svg" />][website]
+[<img align="left" title="WebGL" alt="WebGL" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/webgl.svg" />][website]
 
 <br />
 <br />
