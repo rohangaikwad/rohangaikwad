@@ -1,9 +1,10 @@
-### Hi there, I'm [Rohan][website]  👋
+### Hi there, I'm Rohan Gaikwad - aka [GuyQuad][website]  👋
 
 <!--
 **rohangaikwad/rohangaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I'm a Developer. I develop Websites, Web apps, Mobile apps and Video Games!
+## I'm a Developer. 
+- I develop Websites, Web apps, Mobile apps and Video Games!
 - 🔭 I’m currently working on a hybrid application made using using react-native
 - 🌱 I’m currently learning everything 😁
 - 👯 I’m looking to collaborate on react-native & JavaScript libraries
@@ -25,7 +26,7 @@
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
+[<img align="left" alt="MongoDB" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/mongodb_leaf.svg" />][website]
 
 <br />
 <br />
