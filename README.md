@@ -35,6 +35,7 @@
 [<img align="left" title="Progressive Web Applications" alt="Progressive Web Applications" height="24px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/pwa.svg" />][website]
 [<img align="left" title="Docker" alt="Docker" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/docker.svg" />][website]
 [<img align="left" title="Amazon Web Services" alt="Amazon Web Services" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/aws.svg" />][website]
+[<img align="left" title="Tensorflow.js" alt="Tensorflow.js" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/tensorflow.png" />][website]
 
 <br />
 <br />
@@ -58,6 +59,7 @@
 ### Currently learning:
 [<img align="left" title="Gatsby" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
 [<img align="left" title="Hasura" alt="Hasura" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/hasura.svg" />][website]
+[<img align="left" title="Tensorflow.js" alt="Tensorflow.js" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/tensorflow.png" />][website]
 
 <br />
 <br />
