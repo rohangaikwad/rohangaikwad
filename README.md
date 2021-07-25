@@ -41,7 +41,7 @@
 
 ### Currently learning:
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][website]
-[<img align="left" alt="Hasura" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/hasura.png" />][website]
+[<img align="left" alt="Hasura" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/hasura.svg" />][website]
 
 <br />
 <br />
