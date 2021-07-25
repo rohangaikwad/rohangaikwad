@@ -30,6 +30,7 @@
 [<img align="left" title="WebGL" alt="WebGL" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/webgl.svg" />][website]
 [<img align="left" title="SVG" alt="SVG" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/svg.svg" />][website]
 [<img align="left" title="HTML5 Canvas" alt="HTML5 Canvas" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/canvas.png" />][website]
+[<img align="left" title="Progressive Web Applications" alt="Progressive Web Applications" height="24px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/pwa.svg" />][website]
 
 <br />
 <br />
@@ -44,6 +45,7 @@
 [<img align="left" title="Postman" alt="Postman" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/postman.svg" />][website]
 [<img align="left" title="Robo3T" alt="Robo3T" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/robo3t.png" />][website]
 [<img align="left" title="Photoshop" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/photoshop.svg" />][website]
+
 
 <br />
 <br />
