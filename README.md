@@ -71,6 +71,6 @@
 [<img align="left" title="rohan | Twitter" alt="rohan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-[website]: https://www.rohanvg.com
+[website]: https://rohangaikwad.github.io
 [linkedin]: www.linkedin.com/in/rohangaikwad1
 [twitter]: https://twitter.com/ImGuyQuad
