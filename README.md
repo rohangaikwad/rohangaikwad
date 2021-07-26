@@ -54,7 +54,7 @@
 [<img align="left" title="Terminal" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [<img align="left" title="Postman" alt="Postman" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/postman.svg" />][website]
 [<img align="left" title="Robo3T" alt="Robo3T" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/robo3t.png" />][website]
-[<img align="left" title="Blender" alt="Blender" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/blender.svg" />][website]
+[<img align="left" title="Blender" alt="Blender" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/blender.svg" />][website]
 [<img align="left" title="Photoshop" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/photoshop.svg" />][website]
 [<img align="left" title="Heroku" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/heroku.svg" />][website]
 [<img align="left" title="FFMPEG" alt="FFMPEG" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/ffmpeg.svg" />][website]
