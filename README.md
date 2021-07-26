@@ -55,6 +55,7 @@
 [<img align="left" title="Postman" alt="Postman" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/postman.svg" />][website]
 [<img align="left" title="Robo3T" alt="Robo3T" height="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/robo3t.png" />][website]
 [<img align="left" title="Photoshop" alt="Photoshop" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/photoshop.svg" />][website]
+[<img align="left" title="Heroku" alt="Heroku" width="26px" src="https://raw.githubusercontent.com/rohangaikwad/rohangaikwad/main/images/heroku.svg" />][website]
 
 
 <br />
