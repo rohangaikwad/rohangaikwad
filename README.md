@@ -4,7 +4,7 @@
 **rohangaikwad/rohangaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## I'm a Developer. 
-- I develop Websites, Web apps, Mobile apps and Video Games!
+- 💻 I develop Websites, Web apps, Mobile apps and Video Games!
 - 🔭 I’m currently working on a hybrid application made using using react-native
 - 🌱 I’m currently learning everything 😁
 - 👯 I’m looking to collaborate on react-native & JavaScript libraries
