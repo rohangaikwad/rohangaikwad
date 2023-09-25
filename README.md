@@ -1,4 +1,4 @@
-### Hi there, I'm Rohan Gaikwad - aka [GuyQuad][website]  👋
+### Hi there, I'm Rohan Gaikwad  👋
 
 <!--
 **rohangaikwad/rohangaikwad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
